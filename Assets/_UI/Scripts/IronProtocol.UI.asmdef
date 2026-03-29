@@ -1,0 +1,14 @@
+{
+    "name": "IronProtocol.UI",
+    "rootNamespace": "IronProtocol.UI",
+    "references": ["IronProtocol.Core", "IronProtocol.HexMap", "IronProtocol.Military", "IronProtocol.Economy", "IronProtocol.Diplomacy", "IronProtocol.AI", "IronProtocol.Weather", "IronProtocol.TurnSystem"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

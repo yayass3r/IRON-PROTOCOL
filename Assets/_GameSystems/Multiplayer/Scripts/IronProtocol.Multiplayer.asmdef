@@ -1,0 +1,14 @@
+{
+    "name": "IronProtocol.Multiplayer",
+    "rootNamespace": "IronProtocol.Multiplayer",
+    "references": ["IronProtocol.Core", "IronProtocol.TurnSystem"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

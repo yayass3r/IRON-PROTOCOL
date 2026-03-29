@@ -1,0 +1,14 @@
+{
+    "name": "IronProtocol.Economy",
+    "rootNamespace": "IronProtocol.Economy",
+    "references": ["IronProtocol.Core", "IronProtocol.HexMap"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

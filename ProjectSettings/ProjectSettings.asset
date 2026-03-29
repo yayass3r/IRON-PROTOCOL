@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!159 &1
+EditorSettings:
+  m_ExternalVersionControlSupport: Visible Meta Files
+  m_SerializationMode: 2
+  m_LineEndingsForNewScripts: 0
+  m_DefaultBehaviorMode: 0
+  m_SpritePackerMode: 0
+  m_SpritePackerPaddingPower: 1
+  m_EtcTextureCompressorBehavior: 1
+  m_EtcTextureFastCompressorBehavior: 1
+  m_EtcTextureNormalCompressorBehavior: 1
+  m_EtcTextureHighQualityCompressorBehavior: 1
+  m_ProjectGenerationIncludedExtensions: txt;xml;fnt;cd;asmdef;asmref
+--- !u!11 &2
+PlayerSettings:
+  serializedVersion: 23
+  Android:
+    <undefined k__BackingField>
+  applicationIdentifier:
+    Android: com.ironprotocol.game
+  companyName: IronProtocol Studio
+  productName: IRON PROTOCOL
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  targetDevice: 2
+  useMobileDirector: 1
+  AndroidMinSdkVersion: 29
+  AndroidTargetSdkVersion: 34
+  AndroidScriptingBackend: 1
+  AndroidIL2CPPCodeGeneration: 0

@@ -1,0 +1,14 @@
+{
+    "name": "IronProtocol.HexMap",
+    "rootNamespace": "IronProtocol.HexMap",
+    "references": ["IronProtocol.Core"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
