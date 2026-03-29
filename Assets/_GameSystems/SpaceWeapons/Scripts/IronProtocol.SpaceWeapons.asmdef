@@ -1,0 +1,14 @@
+{
+    "name": "IronProtocol.Space.weapons",
+    "rootNamespace": "IronProtocol.Space.weapons",
+    "references": ["IronProtocol.Core", "IronProtocol.HexMap", "IronProtocol.Military"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

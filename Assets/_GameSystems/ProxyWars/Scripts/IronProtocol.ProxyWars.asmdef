@@ -1,0 +1,14 @@
+{
+    "name": "IronProtocol.Proxy.wars",
+    "rootNamespace": "IronProtocol.Proxy.wars",
+    "references": ["IronProtocol.Core", "IronProtocol.HexMap", "IronProtocol.Military"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

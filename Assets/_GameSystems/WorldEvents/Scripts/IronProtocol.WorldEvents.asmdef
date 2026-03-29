@@ -1,0 +1,14 @@
+{
+    "name": "IronProtocol.World.events",
+    "rootNamespace": "IronProtocol.World.events",
+    "references": ["IronProtocol.Core", "IronProtocol.HexMap", "IronProtocol.Military"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "IronProtocol.Media.propaganda",
+    "rootNamespace": "IronProtocol.Media.propaganda",
+    "references": ["IronProtocol.Core", "IronProtocol.HexMap", "IronProtocol.Military"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

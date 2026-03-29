@@ -1,0 +1,14 @@
+{
+    "name": "IronProtocol.Research.tech",
+    "rootNamespace": "IronProtocol.Research.tech",
+    "references": ["IronProtocol.Core", "IronProtocol.HexMap", "IronProtocol.Military"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
